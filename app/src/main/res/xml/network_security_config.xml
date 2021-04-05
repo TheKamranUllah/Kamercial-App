@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--This is for network configuration and also included in Manifest Them tag,-->
+<!--without this Volley show HttpClearText or NoConnectionError or not permitted-->
+
+<network-security-config>
+    <base-config cleartextTrafficPermitted="true">
+
+    </base-config>
+
+    <domain-config cleartextTrafficPermitted="true">
+
+        <domain includeSubdomains="true">localhost</domain>
+    </domain-config>
+
+</network-security-config>

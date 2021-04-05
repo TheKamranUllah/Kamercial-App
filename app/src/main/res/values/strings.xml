@@ -1,0 +1,19 @@
+<resources>
+
+    <string name="app_name">Kamercial</string>
+
+    <string name="restaurant_image">Restaurant Image</string>
+    <string name="search_text">Search here</string>
+    <string name="bottom_sheet_top_text">Please confirm your order</string>
+    <string name="add_product_top_text">Provide below information to add product</string>
+
+
+    <string-array name="category">
+        <item>Sports</item>
+        <item>Fashion</item>
+        <item>Education</item>
+        <item>Electronics</item>
+        <item>Food</item>
+    </string-array>
+
+</resources>
